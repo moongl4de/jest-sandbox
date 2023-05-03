@@ -55,3 +55,9 @@ describe("My Stack", () => {
     expect(sum()).toBe(10);
   });
 });
+
+describe("Loop Test", () => {
+  it("returns 10", () => {
+    expect(sum()).toBe(10);
+  });
+});
